@@ -1,6 +1,6 @@
 import '../pages/index.css';
 
-/*
+/* 1.verze
 export const Bulb = ({ on }) => {
   return (
     <>
